@@ -2,6 +2,8 @@
 
 This is a simple investment calculator app built using React.js. It allows users to input their initial investment amount, annual investment, expected return rate, and investment duration. Based on these inputs, the app calculates and displays the investment results, including the investment value, interest earned, total interest, and invested capital for each year.
 
+##[DEMO link](https://novak-k.github.io/investment-calc/)
+
 ## How to Use
 
 1. **Input Data**: Enter the following details in the input fields provided:
